@@ -1,0 +1,23 @@
+.heading{
+    font-size: 40px;
+    color:#3f3ff3
+}
+.output{
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding:25px;
+    text-align: center;
+}
+.result{
+    border: 1px solid lightgrey;
+    padding:20px;
+}
+.f, .s {
+    border-bottom: none;
+}
+li{
+   list-style: none;
+   border: 1px solid lightgrey;
+   padding:15px;
+   
+}
